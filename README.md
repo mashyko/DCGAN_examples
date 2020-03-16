@@ -1,3 +1,3 @@
-# DCGAN_examples
-Examples of DCGANs
+# DCGAN & CycleGAN examples
+Examples of GANs models 
 Python implementation using Pytorch or Tensorflow
